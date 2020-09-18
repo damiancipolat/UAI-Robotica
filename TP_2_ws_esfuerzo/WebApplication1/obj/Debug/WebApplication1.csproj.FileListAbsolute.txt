@@ -1,0 +1,14 @@
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_2_ws_esfuerzo\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_2_ws_esfuerzo\WebApplication1\bin\WebApplication1.dll
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_2_ws_esfuerzo\WebApplication1\bin\WebApplication1.pdb
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_2_ws_esfuerzo\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_2_ws_esfuerzo\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_2_ws_esfuerzo\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\54116\Desktop\UAI\Modelos_comp\TPS\TP_2_ws_esfuerzo\WebApplication1\obj\Debug\WebApplication1.pdb
